@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "883064793910",
+    "project_id": "merdekakampus-3d2f0",
+    "storage_bucket": "merdekakampus-3d2f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883064793910:android:1181091cda4c9e0117e197",
+        "android_client_info": {
+          "package_name": "com.merdekakampus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883064793910-fnte89vnk7fgs1m5gl3vhfmb0qk6saga.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.merdekakampus",
+            "certificate_hash": "6ddc02b35991dc40c0472bfa7fe691106478ab00"
+          }
+        },
+        {
+          "client_id": "883064793910-ntff3et8ocsnrrgohffc22o4d8csmkah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgQ3G5xMl5KAcpZX4AgIog-fi9vL7shBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883064793910-ntff3et8ocsnrrgohffc22o4d8csmkah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

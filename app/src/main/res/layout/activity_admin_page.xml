@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Admin_page">
+    <LinearLayout
+        android:background="@drawable/adminaddstaff"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="vertical" >
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <Button
+                android:id="@+id/btnAddStaff"
+                android:layout_width="match_parent"
+                android:backgroundTint="@color/mudahijau"
+                android:layout_height="wrap_content"
+                android:text="ADD STAFF"
+                android:layout_marginHorizontal="50dp"
+                android:layout_alignParentBottom="true"/>
+
+        </RelativeLayout>
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:background="@drawable/adminaddstock"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <Button
+                android:id="@+id/btnAddStock"
+                android:layout_width="match_parent"
+                android:backgroundTint="@color/mudahijau"
+                android:layout_height="wrap_content"
+                android:text="ADD STOCK"
+                android:layout_marginHorizontal="50dp"
+                android:layout_alignParentBottom="true"/>
+
+        </RelativeLayout>
+
+
+    </LinearLayout>
+</LinearLayout>
